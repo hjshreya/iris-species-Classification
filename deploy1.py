@@ -5,7 +5,7 @@ import numpy as np
 st.set_page_config(layout="wide")
 
 # Load the model
-model_path = "/Users/shrutishreya/Desktop/mlM.pkl"
+model_path = "/Users/shrutishreya/Desktop/iris_files/mlM.pkl"
 model = pickle.load(open(model_path, "rb"))
 
 # Streamlit app
