@@ -1,4 +1,0 @@
-git add mlM.pkl
-git commit -m "Add model file"
-git push origin main
-
